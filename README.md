@@ -352,4 +352,4 @@ int main() {
 - Maximum file size limited by total disk size.
 - Maximum number of files defined by the MAX_FILES constant (1024).
 - Not recommended for systems with high write concurrency.
-- Not recommended for file versions larger than 4096 bytes
+- Not recommended for file versions larger than 4096 bytes.
